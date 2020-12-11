@@ -12,6 +12,13 @@ curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/loca
 
 composer install
 
+# Realizar migracion a mysql 5.7
+
+php artisan migrate:fresh --seed
+
+
+# importar en postman
+
 
 
 
