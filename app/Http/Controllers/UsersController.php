@@ -139,4 +139,8 @@ class UsersController extends Controller
             return ["status"=>false,"messages"=>"Falló al eliminar."];
         }
     }
+    
+    public function estadoprueba(){
+        return ["msg"=>"Hola este es un estado de prueba..."];
+    }
 }
