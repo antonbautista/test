@@ -8,7 +8,7 @@ use App\Users;
 
 class UsersController extends Controller
 {
-    
+    //BUEN ESPERANDO....
     //ESPERO QUE FUNCIONE  jaja   
     
     // Bueno
