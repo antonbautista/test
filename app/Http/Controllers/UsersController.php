@@ -9,7 +9,9 @@ use App\Users;
 class UsersController extends Controller
 {
     
-    //ESPERO QUE FUNCIONE
+    //ESPERO QUE FUNCIONE  jaja   
+    
+    // Bueno
     /**
      * Display a listing of the resource.
      *
