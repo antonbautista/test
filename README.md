@@ -22,7 +22,9 @@ php artisan migrate:fresh --seed
 agregar el formato json de postman que se compartio.
 
 # probar funcionalidad una vez realizado la migracion
-hola..
+Buena probando hooks
+
+....
 
 
 
